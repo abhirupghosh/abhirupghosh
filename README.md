@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @abhirupghosh
-- 💼 I'm the co-founder of a Technology Consulting startup, [Neuraniche](www.neuraniche.com)
+- 💼 I'm the co-founder of a Technology Consulting startup, [Neuraniche](https://www.neuraniche.com)
 - 🎓 I graduated with a Bachelor of Science degree from Georgia Tech in Computer Science
 - 📧 You can reach me at my email: abhirupghosh at neuraniche dot com
 <!---

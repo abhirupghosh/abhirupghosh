@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @abhirupghosh
-- 💼 I'm the co-founder and Head of Innovation at Sainapse - we redefined customer support. Check us out: www.sainapse.ai
+- 💼 I'm the CEO at Sainapse - we are the platform for customer work. Check us out: www.sainapse.ai
 - 🎓 I graduated with a Bachelor of Science degree from Georgia Tech in Computer Science
 - 📧 You can reach me at my email: abhirup dot ghosh at sainapse dot ai
 <!---
